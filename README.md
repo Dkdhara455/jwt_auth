@@ -10,17 +10,29 @@ Features
 -Modular, clean code structure
 
 jwt_auth/
+
 ├── app/
+
 │   ├── __init__.py
+
 │   ├── main.py
+
 │   ├── models.py
+
 │   ├── schemas.py
+
 │   ├── auth.py
+
 │   ├── dependencies.py
+
 │   ├── crud.py
+
 │   ├── database.py
+
 │   └── config.py
+
 ├── requirements.txt
+
 ├── README.md
 
 ## for insallaisation
